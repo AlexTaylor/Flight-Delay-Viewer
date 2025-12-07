@@ -1,0 +1,5 @@
+[
+  { "id": 1, "flight": "BA242", "delay": 95, "status": "DELAYED" },
+  { "id": 2, "flight": "U21921", "delay": 15, "status": "ON_TIME" },
+  { "id": 3, "flight": "FR9091", "delay": 240, "status": "CANCELLED" }
+]
