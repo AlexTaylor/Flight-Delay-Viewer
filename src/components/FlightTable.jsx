@@ -2,7 +2,7 @@ import FlightRow from "./FlightRow";
 
 export default function FlightTable({ flights }) {
   return (
-    <table>
+    <table border="1">
       <thead>
         <tr>
           <th>Flight</th>
